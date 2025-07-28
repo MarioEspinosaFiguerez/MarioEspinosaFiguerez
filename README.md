@@ -22,3 +22,7 @@ Junior Unity Scripting & Backend Developer
 <code><img height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></code>
 <code><img height="40" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></code>
 <code><img height="40" src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"></code>
+
+## Github Statistics
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MarioEspinosaFiguerez&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioEspinosaFiguerez&layout=compact&theme=tokyonight)
