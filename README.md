@@ -26,3 +26,4 @@ Junior Unity Scripting & Backend Developer
 ## Github Statistics
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MarioEspinosaFiguerez&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioEspinosaFiguerez&layout=compact&theme=tokyonight)
+![GitHub Snake](https://github.com/MarioEspinosaFiguerez/MarioEspinosaFiguerez/blob/output/github-contribution-grid-snake.svg)
